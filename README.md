@@ -1,4 +1,4 @@
-# testcurs2 - branch1
+# testcurs2 - branch4
 
 modificat din branch1
 
