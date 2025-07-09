@@ -1,4 +1,4 @@
-# testcurs2 - branch4
+# testcurs2 - conflict rezolvat
 
 modificat din branch1
 
