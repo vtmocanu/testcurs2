@@ -1,4 +1,4 @@
-# testcurs2 - branch1
+# testcurs2 - main
 
 modificat din branch1
 
